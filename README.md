@@ -1,5 +1,5 @@
 # Modifications to SimpleVim:
-- "J" and "K" now move 4 spaces up and down, respectively.
+- "J" and "K" now move 4 spaces down and up, respectively.
 
 ### Below is the readme of the original SimpleVim extension:
 
