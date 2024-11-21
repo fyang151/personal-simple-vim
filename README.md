@@ -1,3 +1,11 @@
+# Modifications to SimpleVim:
+- "J" and "K" now move 4 spaces up and down, respectively.
+
+### Below is the readme of the original SimpleVim extension:
+
+
+
+
 # SimpleVim
 
 An opinionated Vim-like extension for VSCode that prioritizes simplicity (of use and implementation) and integration with native VSCode features.
